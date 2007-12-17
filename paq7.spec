@@ -8,7 +8,6 @@ URL:		http://www2.cs.fit.edu/~mmahoney/compression/
 Source0:	paq7asm.asm.bz2
 Source1:	paq7.cpp.bz2
 BuildRequires:	nasm
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 PAQ7 is a file compressor and archiver.
