@@ -1,4 +1,4 @@
-Summary:	PAQ7 is a file compressor and archiver
+Summary:	File compressor and archiver
 Name:		paq7
 Version:	0
 Release:	%mkrel 1
