@@ -1,7 +1,7 @@
 Summary:	File compressor and archiver
 Name:		paq7
 Version:	0
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	GPL
 Group:		Archiving/Compression
 URL:		http://www2.cs.fit.edu/~mmahoney/compression/
