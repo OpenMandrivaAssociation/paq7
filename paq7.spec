@@ -4,7 +4,7 @@ Version:	0
 Release:	8
 License:	GPL
 Group:		Archiving/Compression
-URL:		http://www2.cs.fit.edu/~mmahoney/compression/
+URL:		https://www2.cs.fit.edu/~mmahoney/compression/
 Source0:	paq7asm.asm.bz2
 Source1:	paq7.cpp.bz2
 BuildRequires:	nasm
